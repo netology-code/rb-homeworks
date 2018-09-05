@@ -22,16 +22,16 @@
 
 # Инфраструктура
 Для выполнения данной работы вам потребуется работающее rails приложение. Проще всего запусть его в docker контейнере, используя готовый Dockerfile.
-===
+
+
 ## Порядок установки
 1. Запустите в командной строке `docker --version` чтобы убедиться в наличии docker и его поддерживаемой версии
   Если команда не найдена установите docker, перейдя по ссылке и следуя рекомендациям по установке в зависимости от платформы:
 
- [Docker для Windows](https://docs.docker.com/docker-for-windows/install/)
+- [Docker для Windows](https://docs.docker.com/docker-for-windows/install/)
+- [Docker для Mac](https://docs.docker.com/docker-for-mac/install/)
+- [Docker для Linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
- [Docker для Mac](https://docs.docker.com/docker-for-mac/install/)
-
- [Docker для Linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 2. Скачайте архив с шаблоном приложения: [my_app.zip](my_app.zip)
 3. Разархивируйте архив в удобную для вас директорию и перейдите в нее.
 4. Создайте docker-image: `docker build -t netology-rails .`
