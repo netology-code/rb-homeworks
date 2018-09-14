@@ -28,4 +28,13 @@ describe Book do
     specify { expect(old_book).to be_invalid }
     specify { expect(future_book).to be_invalid }
   end
+
+  context 'author' do
+    let(:book) { build :book, author: "досТОевский" }
+
+    it "makes author valid" do
+      expect(book).to be_valid
+      expect(book.author).to eq("Достоевский")
+    end
+  end
 end
