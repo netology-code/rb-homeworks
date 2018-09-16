@@ -8,7 +8,7 @@
 1.3. [Классы и объекты.](1_3-objects_and_classes)
 
 ## Блок 2.
-2.1. Базовые понятия MVC - Model, View, Controller.  
+2.1. [Базовые понятия MVC - Model, View, Controller.](2_1-model_view_controller)  
 2.2. [Model & Migration.](2_2-models_and_migrations)  
 2.3. Forms, Validations & Callbacks . 
 
@@ -21,6 +21,3 @@
 4.1.  
 4.2.  
 4.3.  
-
-
-

@@ -1,7 +1,7 @@
 Установка ruby используя RVM
 ===
 
-_Для Unix-подобных состем_ 
+_Для Unix-подобных систем_ 
 
 **RVM** (Ruby enVironment (Version) Manager) позволяет устанавливать и управлять несколькими установленными версиями Ruby в вашей системе. Также он может управлять разными наборами гемов. Доступен для OS X, Linux и других UNIX-подобных операционных систем.
 
@@ -14,4 +14,4 @@ _Для Unix-подобных состем_
    
    `\curl -sSL https://get.rvm.io | bash -s stable --ruby`
    
-**Resource:** https://rvm.io/rvm/install
+**Ресурс:** https://rvm.io/rvm/install
