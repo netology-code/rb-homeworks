@@ -12,9 +12,9 @@
 
 2.1. [Базовые понятия MVC - Model, View, Controller.](2_1-model_view_controller)
 
-2.2. Model & Migration  
+2.2. Model & Migration
 
-2.3. Forms, Validations & Callbacks
+2.3. [Forms, Validations & Callbacks.](2_3-forms_validations_and_callbacks)
 
 ## Блок 3. Базовые принципы MVC для Rails приложения
 
