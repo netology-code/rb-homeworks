@@ -18,7 +18,7 @@
 
 ## Блок 3. Базовые принципы MVC для Rails приложения
 
-3.1.  ActiveRecord many-to-many relation and transactions
+3.1. [Связь многие-ко-многим и транзакции](3_1-many_to_many)
 
 3.2.  Регистрация и аутентификация пользователей в Rails
 
